@@ -5,3 +5,5 @@ This repository contains notebook for running [YOLO-World](https://github.com/AI
 
 The notebook allows you to define a set of classes and retrive both the bounding boxes and the segmentation masks for each object of interest in an image or in a video.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Kb-MpAWpIn-nuUg-zV-HEgVdqNqAjgIc?usp=sharing)
+
